@@ -30,11 +30,15 @@ Mockup:
     * 2.3 Atualizar descrição ao clicar em salvar.
 
  3. Remover evento
-    * 3.1 O usuário deverá primeiramente clicar uma vez para selecionar o evento.
+    * 3.1 O usuário deverá primeiramente clicar uma vez para selecionar o evento e marcar com uma cor de destaque.
     * 3.2 Exibir modal de confirmação de remoção ao pressionar a tecla backspace.
     * 3.3 Em caso de confirmação, remover evento do calendário com todas as referências previamente salvas.
 
 ## Instruções
 Todos os dados trabalhados devem ser trabalhados em memória ou com local storage.
 
-Você terá **5 dias** para entregar sua solução, a contar do dia em que você receber o acesso ao nosso repositório. Após ter finalizado sua implementação, você deverá enviar seu código para o branch em nosso repositório.
+Você tem a liberdade de implementar melhorias visuais e de eventos e adicionais.
+
+**Plus opcional:** Você pode implementar também a edição do dia do evento arrastando o elemento para outro dia do calendário.
+
+Após ter finalizado sua implementação, você deverá enviar seu código para o branch em nosso repositório.
